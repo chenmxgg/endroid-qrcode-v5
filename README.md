@@ -11,7 +11,7 @@ Endroid\QrCode中文字库版，可以自定义字库文件路径！！基于End
 #### 安装教程
 
 ```
-composer require  chenm/endroid-qrcode
+composer require  chenm/endroid-qrcode-v5
 ```
 
 #### 使用说明
