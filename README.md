@@ -19,8 +19,7 @@ composer require  chenm/endroid-qrcode
 使用非常简单，参考下面代码即可
 
 
-```
-<?php
+```php
 
 namespace app\common\util;
 
