@@ -30,6 +30,7 @@ final class CnSans implements FontInterface
     public function setPath(string $path)
     {
         $this->path = $path;
+        return $this;
     }
 
     public function getSize(): int
