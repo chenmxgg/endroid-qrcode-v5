@@ -10,7 +10,7 @@ namespace Endroid\QrCode\Label\Font;
 final class CnSans implements FontInterface
 {
 
-    private $path = __DIR__ . '/../../../assets/noto_sans.otf';
+    public $path = __DIR__ . '/../../../assets/cn_sans.ttf';
 
     public function __construct(
         private int $size = 16
